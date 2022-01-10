@@ -1,0 +1,16 @@
+<layer>
+  <name>osm</name>
+  <id>LayerInfoImpl-5caea2e3:17db2b07732:-2395</id>
+  <type>WMTS</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe2</id>
+  </defaultStyle>
+  <resource class="wmtsLayer">
+    <id>WMTSLayerInfoImpl-5caea2e3:17db2b07732:-2396</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-01-10 03:01:16.498 UTC</dateCreated>
+</layer>

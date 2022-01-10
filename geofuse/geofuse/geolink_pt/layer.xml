@@ -1,0 +1,16 @@
+<layer>
+  <name>geolink_pt</name>
+  <id>LayerInfoImpl-13ac15c8:177d714d9ca:-7ff7</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fdf</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-13ac15c8:177d714d9ca:-7ff8</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-02-25 04:16:01.644 UTC</dateCreated>
+</layer>

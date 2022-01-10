@@ -1,0 +1,18 @@
+<wmtsStore>
+  <id>WMTSStoreInfoImpl-5caea2e3:17db2b07732:-2399</id>
+  <name>OSM</name>
+  <type>WMTS</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl-13ac15c8:177d714d9ca:-7ffd</id>
+  </workspace>
+  <metadata>
+    <entry key="useConnectionPooling">true</entry>
+  </metadata>
+  <__default>false</__default>
+  <dateCreated>2022-01-10 03:00:26.37 UTC</dateCreated>
+  <capabilitiesURL>http://cld06.georepublic.net/wmts/osm+gsi.xml</capabilitiesURL>
+  <maxConnections>6</maxConnections>
+  <readTimeout>60</readTimeout>
+  <connectTimeout>30</connectTimeout>
+</wmtsStore>
